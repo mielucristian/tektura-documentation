@@ -8,7 +8,7 @@ A premium website template for architecture practices, built in [Framer](https:/
 
 - **Platform:** Framer (visual website builder + design tool)
 - **Editing via AI:** The project can be edited with AI two ways — Framer's built-in 3.0 Agent, which works directly inside the canvas, or an external agent (Claude Code, Cursor, Codex) connected through the Framer MCP server (`mcp.unframer.co`). Either can read and modify pages, components, styles, and CMS content. See [`AGENTS.md`](./AGENTS.md) for agent-facing conventions and how to supply that file to each.
-- **Framer Skills:** [Skills](https://www.framer.com/skills) are reusable, `/command`-invoked instruction sets (Settings → Skills) that teach Framer's built-in Agent your project's standards so it applies them consistently. A **design-system skill** paired with the [`/design-system`](#pages) page is the recommended setup here — it keeps AI-generated content on the template's existing components, styles, and tokens. See [`AGENTS.md`](./AGENTS.md#framer-skills).
+- **Framer Skills:** [Skills](https://framer.link/xAHTjKz) are reusable, `/command`-invoked instruction sets (Settings → Skills) that teach Framer's built-in Agent your project's standards so it applies them consistently. A **design-system skill** paired with the [`/design-system`](#pages) page is the recommended setup here — it keeps AI-generated content on the template's existing components, styles, and tokens. See [`AGENTS.md`](./AGENTS.md#framer-skills).
 - **Content model:** Heavily CMS-driven. Ten collections feed the projects, journal, team, services, awards, clients, and legal pages. Detail routes (`:slug`) are generated from those collections rather than hand-built per item.
 
 ## Site structure
