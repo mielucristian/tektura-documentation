@@ -2,7 +2,7 @@
 
 A premium website template for architecture practices, built in [Framer](https://framer.com). Tektūra is built around modular sections and CMS-driven content (projects, journal, team, awards, and more), so no two sites built from it need to share a layout.
 
-> **Based on the Tektūra Framer template.** This project is built on **Tektūra**, a premium architecture-agency template with modular sections, CMS-driven projects and journal, and flexible layouts. Live demo: <https://tektura.framer.website/>. Designed by **Cristian Mielu** ([UI Hub Design](https://www.uihub.design/)) — [buy / license the template](https://framer.link/gsd54hz). Please keep this attribution and refer to the template's license before redistributing.
+> **Based on the Tektūra Framer template.** This project is built on **Tektūra**, a premium architecture-agency template with modular sections, CMS-driven projects and journal, and flexible layouts. Live demo: <https://tektura.framer.website/>. Designed by **Cristian Mielu** ([UI Hub Design](https://www.uihub.design/)). Please keep this attribution and refer to the template's license before redistributing.
 
 ## Tech & tooling
 
